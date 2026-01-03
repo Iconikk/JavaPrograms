@@ -1,0 +1,8 @@
+*.class
+.vscode/
+git rm --cached *.class
+git rm --cached -r .vscode
+
+
+
+
