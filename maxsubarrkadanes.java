@@ -1,5 +1,5 @@
 import java.util.*;
-public class maxsubarrPrefixsum{
+public class maxsubarrkadanes{
 
     public static void kadanes(int numbers[]){
         int cs = 0;
