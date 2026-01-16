@@ -1,4 +1,4 @@
-import java.uti.*;
+import java.util.*;
 
 public class arraypairs {
     public static void printpairs (int numbers[]){
